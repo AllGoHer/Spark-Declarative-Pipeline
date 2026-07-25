@@ -16,10 +16,12 @@ Para empezar, ve a la carpeta <mark>transformations</mark>; allí se encuentra l
 
 * Por convención, cada conjunto de datos de la carpeta <mark>transformations</mark> se encuentra en un archivo independiente.
 * Echa un vistazo al ejemplo que aparece en «sample_users_first_sdp_pipeline.py» para familiarizarte con la sintaxis. Obtén más información sobre la sintaxis en https://docs.databricks.com/ldp/developer/python-ref.
-* Utiliza «Ejecutar archivo» para ejecutar y obtener una vista previa de una única transformación.
-Utiliza «Ejecutar canalización» para ejecutar todas las transformaciones de la canalización completa.
-Utiliza «+ Añadir» en el explorador de archivos para añadir una nueva definición de conjunto de datos.
-¡Utiliza «Programar» para ejecutar la canalización según una programación!
+* Utiliza <mark>Run file</mark> para ejecutar y obtener una vista previa de una única transformación.
+* Utiliza <mark>Run pipeline</mark> para ejecutar todas las transformaciones de la canalización completa.
+* Utiliza <mark>+ Add</mark> en el explorador de archivos para añadir una nueva definición de conjunto de datos.
+* Utiliza <mark>Schedule</mark> para ejecutar la canalización según una programación.
+
+
 Para obtener más tutoriales y material de referencia, consulta https://docs.databricks.com/ldp.
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
+
